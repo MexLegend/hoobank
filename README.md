@@ -1,6 +1,6 @@
 # HooBank
 
-<img src="https://res.cloudinary.com/devmexsoft/image/upload/v1694545243/Projects%20Thumbnails/Gericht_Thumbnail_jlno5w.png" height="600px"/>
+<img src="https://res.cloudinary.com/devmexsoft/image/upload/v1694909007/Projects%20Thumbnails/Hoobank_Thumbnail_wa6gc9.png" height="600px"/>
 
 ### [Demo](https://gericht-landing.vercel.app)
 
